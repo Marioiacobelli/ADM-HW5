@@ -7,7 +7,8 @@ This repository contains the solutions of the Group #13 for the 5th HW of the AD
 ## Group Members:
 - Abzal Aidakhmetov - matricola : 2115331
 - Zakary Belkacem - matricola : 2116375
-     
+- Mario Iacobelli - matricola : 1841427
+
 
 ## Files in the Repository:
 - __`main.ipynb`__: this file contains all the answers to Questions.
